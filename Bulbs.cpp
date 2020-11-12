@@ -28,11 +28,6 @@ int main()
         }
     }
 
-    /*for(int i=0;i<bulb;i++)
-    {
-        cout << arr[i] ;
-    }*/
-
 
     bool temp = true ;
     for(int i=0;i<bulb;i++)
