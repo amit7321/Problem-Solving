@@ -28,7 +28,6 @@ int main()
         }
     }
 
-
     bool temp = true ;
     for(int i=0;i<bulb;i++)
     {
